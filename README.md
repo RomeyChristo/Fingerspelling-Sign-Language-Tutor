@@ -1,10 +1,5 @@
 # Fingerspelling-Sign Language Tutor for ISL
-**Contents**
 
-[TOC]
-
-
-## Introduction
 Fingerspelling for ISL is an application which can be useful to learn Indian Sign Language with the help of animated gestures. The application has been initially developed for alphabets, but can be further modified and used for words and other sign languages too. Please read the further development section to learn to create new signs for ISL and for other sign languages.
 
 ## Installation
