@@ -11,7 +11,7 @@ Fingerspelling for ISL is an application which can be useful to learn Indian Sig
 
 
 ## Installation
-1. Click on the setup file.
+1. Open the file with the extracted contents. Click on the setup file.
 2. Accept the license agreement.
 3. Choose an installation folder and click next.
 4. Tick the box if a desktop shortcut is needed and click Next.
