@@ -2,13 +2,15 @@
 
 Fingerspelling for ISL is an application which can be useful to learn Indian Sign Language with the help of animated gestures. The application has been initially developed for alphabets, but can be further modified and used for words and other sign languages too. Please read the further development section to learn to create new signs for ISL and for other sign languages.
 
-##Download 
+
+## Download 
 1. Click on the Clone or Download (Green button).
 2. Click on Download Zip. See the example image attached below for reference.
 3. Use Winrar or any similar software to extract the contents of the file.
 ![](https://i.stack.imgur.com/ChD9R.png)
 
-##Installation
+
+## Installation
 1. Click on the setup file.
 2. Accept the license agreement.
 3. Choose an installation folder and click next.
